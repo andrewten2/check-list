@@ -1,0 +1,18 @@
+.bottom-panel {
+  margin-top: 20px;
+}
+
+.bottom-panel .new-post-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+
+
+.no-opacity {
+  opacity: 0;
+}
+
+.alert.alert-warning {
+  transition: all 0.3s;
+}
